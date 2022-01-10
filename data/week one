@@ -1,0 +1,11 @@
+Name: American Community Survey- B02001 RACE
+Description: This dataset accounts for the number of people who belong to each race group reported in Los Angeles County in 2019. I may use this data to show the overall portion of Black/African-American residents compared to White residents in the county. White residents make up over five million of the population, while only a little over 800,000 black county residents. This may help create a thread between where black residents live and the number of grocery stores and possibly inequities in grocery stores and healthy, affordable food options. For example, if predominately white communities have many food options, compared to black communities not having an adequate amount. 
+URL: (https://data.census.gov/cedsci/table?t=Black%20or%20African%20American&g=0500000US06037&tid=ACSDT1Y2019.B02001)
+URL: (https://github.com/aizuogu/up206a-antonia/blob/main/data/ACSDT1Y2019.B02001-2022-01-10T024621.csv)
+
+Name: Tract 06037277400 in Los Angeles County, California
+Description: The USDA Economic Research Service
+U.S. DEPARTMENT OF AGRICULTURE created a Food Access Research Atlas that located identities food deserts in the United States of America. I found several within Los Angeles County. Based on an L.A. Times Map of L.A. County Black Communities, Hyde Park is one of the 272 communities within the county with a significant black population. I saw two food deserts on the mapping tool within or near Hyde Park. The linked URL is one of those locations. I may use this data to show the amount of food insecurity in black communities compared to predominantly white neighborhoods. 
+URL: (https://www.ers.usda.gov/data-products/food-access-research-atlas/go-to-the-atlas/)
+URL: 
+(https://github.com/aizuogu/up206a-antonia/blob/main/data/FARA2019_06037235202%20(1).csv)
